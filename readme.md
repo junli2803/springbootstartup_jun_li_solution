@@ -13,7 +13,7 @@ Hinweis:
 
 Befehl zum Starten:
 - UNIX(LIKE): ./gradlew bootRun
-- WINDOWS: grade.bat bootRun
+- WINDOWS: gradle.bat bootRun
 
 Befehl zum Ausführen der Tests:
 - UNIX(LIKE): ./gradelw test -i
